@@ -10,3 +10,5 @@ UML diagram is based on the following scenario:
 * Order is composed of customer. The order could contain extract one customer, while each customer can make many orders.
 * There is an association between order and order line. An order can have zero or many order line.
 * Order line and product has association.
+
+The code also used a design pattern: Template Method.
