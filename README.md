@@ -11,4 +11,4 @@ UML diagram is based on the following scenario:
 * There is an association between order and order line. An order can have zero or many order line.
 * Order line and product has association.
 
-The code also used a design pattern: Template Method.
+The code also uses a design pattern: Template Method.
