@@ -2,8 +2,6 @@
 The project is about order management system using C++ and it is UML-focused.
 * Admin can add, modify, delete and search products.
 
-Note: View the UML diagram for better understanding.
-
 UML diagram is based on the following scenario:
 * Customer make order. Customers can be either corporate customer or personal customer.
 * There is a association between employee and corporate customer. Zero or more corporate customer create from employees. An employee can or cannot be corporate customer.
